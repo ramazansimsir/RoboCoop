@@ -1,0 +1,11 @@
+topic: ~ozet()
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Replying to speech
+#u:(~hello) ~hello
+
+proposal: . %first Pepper Robot aracılığıyla sosyal insansı robot eğitimini Avrupa standartlarına ulaştırmak için bu projeye başvurduk.
+          Amacımız, yeni bir müfredat ve ders materyalleri oluşturarak öğrencilere daha etkili bir şekilde eğitim sunmak.
+           Pilot Pepper Robot kurslarıyla çıktılarımızı test edeceğiz ve sonunda bu eğitimi üniversitelerin resmi programına dönüştürmeyi hedefliyoruz.
+           Geleceğin teknolojilerine güçlü bir temel oluşturmak için sizin gibi katılımcıların desteğini bekliyoruz! %finish .

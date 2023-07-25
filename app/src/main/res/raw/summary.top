@@ -1,0 +1,55 @@
+topic: ~summary()
+
+concept:(özet)["proje özeti" özet]
+concept:(hedef) [hedef amaç amacınız hedefiniz hedefler "proje hedefi"]
+concept:(sürec) [süreç "yol haritası" "proje süreci"]
+concept:(sonuç)[sonuç sonucunuz "proje sonucu" sonuçlar]
+concept:(selam)[merhaba selam selamünaleyküm]
+u:(~selam) merhabalar ben pepper size yardımcı olmak için burdayım
+
+u:(~özet) %first Pepper Robot aracılığıyla sosyal insansı robot eğitimini Avrupa standartlarına ulaştırmak için bu projeye başvurduk.
+Amacımız, yeni bir müfredat ve ders materyalleri oluşturarak öğrencilere daha etkili bir şekilde eğitim sunmak.
+ Pilot Pepper Robot kurslarıyla çıktılarımızı test edeceğiz ve sonunda bu eğitimi üniversitelerin resmi programına dönüştürmeyi hedefliyoruz.
+ Geleceğin teknolojilerine güçlü bir temel oluşturmak için sizin gibi katılımcıların desteğini bekliyoruz! %firstEnd .
+
+
+u:(~hedef)
+%second Bu projeyi uygulayarak, sosyal insansı robot eğitimini Pepper Robot aracılığıyla
+Avrupa standartlarında sunmayı ve üniversite programlarına entegre etmeyi hedefliyoruz.
+Aynı zamanda, lisans öğrencilerini robotik ve insansı robotlar konusunda daha nitelikli ve istihdam edilebilir hale getireceğiz.
+Yerel toplulukları robotik konusunda bilgilendirecek, dezavantajlı grupların yaşamını iyileştirecek ve üniversite personelini sosyal insansı robotlar hakkında bilgilendireceğiz.
+Üniversiteleri geleceğin teknolojilerine hazırlayacak ve
+sosyal insansı robotlar ve avantajları hakkında ulaşılabilir eğitim kurumlarını bilgilendireceğiz.
+Sizlerin de desteğiyle bu heyecan verici projeyi gerçekleştireceğiz! %secondFinish .
+
+
+u:(~sürec)
+%third Sosyal insansı robot eğitimini Pepper Robot aracılığıyla Avrupa standartlarına taşımak için harika bir projeye başladık!
+Proje temel olarak altı aşamadan oluşuyor . İlk olarak  Katılımcı organizasyonlarla dinamik bir seminerle başlayacak ve onların ihtiyaçlarını öğrenmek için ilgi çekici bir anket yapacağız. Daha sonra aynı heyecanla Sonuçları analiz ederek, sosyal insansı robotlar için benzersiz bir müfredat ve etkileşimli ders materyalleri geliştireceğiz.
+Fazla ara vermeden Lisans öğrencileri için heyecan verici Pepper Robot kursları düzenleyerek onları geleceğin teknolojilerine hazırlayacağız.
+Ve bu harika yolculuğun zirvesinde, uluslararası bir konferans düzenleyerek projemizin başarılarını tüm dünyaya duyuracağız.
+Siz de bu eşsiz deneyime katılarak, geleceğin teknolojilerine sağlam bir adım atın!
+Geleceği düşle bugünden çalış %thirdFinish .
+
+
+
+u:(~sonuç) %fourth
+          Projemizin dört ana sonucunu şöyle özetleyebilirim ;
+
+          İhtiyaçların Araştırılması Sosyal humanoid robot eğitimi için ihtiyaçları belirleyerek özgün bir rapor oluşturacağız.
+
+          Müfredat Belirlenen ihtiyaçlara uygun ve heyecan verici bir sosyal humanoid robot eğitim müfredatı hazırlayacağız.
+
+          Etkileşimli Ders Materyalleri Öğrencileri cezbedecek ve etkileyecek şekilde müfredatımıza uygun eğitim materyalleri oluşturacağız.
+
+          Lisans Öğrencileri İçin Çevrimiçi Kurslar Pilot Pepper Robot kursları düzenleyerek lisans öğrencilerini geleceğin teknolojilerine hazırlayacağız.
+
+          Projemizin yanı sıra, diğer çıktılarımız arasında çeşitli çarpan etkinlikler yer alacak. İki toplantı düzenleyerek projemizi profesyonellerle paylaşacağız.
+          Ayrıca, uluslararası bir araştırma konferansı düzenleyerek projemizin sonuçlarını ve işbirliklerini tüm dünyaya duyuracağız.
+          Unutulmaz bir deneyim için sizleri de aramızda görmekten mutluluk duyarız! %fourthFinish ...
+
+u:(teşekkür ederim) rica ederim ben sizlere yardım için burdayım
+
+u:(projenin ortak ülkeleri) Almanya, Polonya, İspanya, ve Türkiye'dir
+
+u:(seni kim programladı) yazılımcı Ramazan Şimşir tarafıdan programlandım.
